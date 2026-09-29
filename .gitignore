@@ -1,0 +1,5 @@
+# GitHub（公開）に載せるのは、投稿画像と投稿予定データだけ
+/*
+!/.gitignore
+!/imgs/
+!/schedule.json
