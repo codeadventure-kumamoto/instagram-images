@@ -3,3 +3,5 @@
 !/.gitignore
 !/imgs/
 !/schedule.json
+!/imgs_map/
+!/gmaps_schedule.json
